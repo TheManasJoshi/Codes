@@ -1,0 +1,6 @@
+-- Users
+-- Doctors
+-- Patients
+-- Appointments
+-- Billing
+-- etc.
