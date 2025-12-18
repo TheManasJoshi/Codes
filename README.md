@@ -1,2 +1,0 @@
-# sorting-visualiser
-project visualiser
